@@ -1,11 +1,12 @@
 # Fdb version 4
-["dvipdf"] 1768196174.12138 "out/sotu2.dvi" "out/sotu2.pdf" "out/sotu2" 1768196175.26784 0
-  "out/sotu2.dvi" 1768196174 34256 da891b59c099a6a356192bcd529c0bae "latex"
+["dvipdf"] 1768392058.8936 "out/sotu2.dvi" "out/sotu2.pdf" "out/sotu2" 1768392060.80189 0
+  "out/sotu2.dvi" 1768392058 50756 e8395ed17fa1016889d64463aa8d3695 "latex"
   (generated)
   "out/sotu2.pdf"
   (rewritten before read)
-["latex"] 1768196173.3822 "c:/Users/yudai/Documents/sotulatex/sotu2.tex" "out/sotu2.dvi" "sotu2" 1768196175.26288 0
-  "c:/Users/yudai/Documents/sotulatex/sotu2.tex" 1768196172 29139 2119dfc2d3f845660b46f0909d448cd2 ""
+["latex"] 1768392049.8039 "c:/Users/yudai/Documents/sotulatex/sotu2.tex" "out/sotu2.dvi" "sotu2" 1768392060.80003 0
+  "../設定1.png" 1768284037 23876 7a26889455e45ea198f76b428e3ca7cd ""
+  "c:/Users/yudai/Documents/sotulatex/sotu2.tex" 1768392049 42738 89a2e6af4100aa5549ac518d0f8fd1fa ""
   "c:/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1766757612 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm" 1766763477 468 53f854284f6afa6c36aaa2d1090ecc12 ""
   "c:/texlive/2025/texmf-dist/fonts/tfm/ptex-fonts/jis/jisg.tfm" 1766763477 468 53f854284f6afa6c36aaa2d1090ecc12 ""
@@ -57,8 +58,15 @@
   "c:/texlive/2025/texmf-dist/web2c/texmf.cnf" 1766749725 42213 4e2ca030e8e2640502016e9e45868dcb ""
   "c:/texlive/2025/texmf-var/web2c/euptex/platex.fmt" 1766806717 3640801 b4f665d2c7fdd794d5b1d9a9f65ed69e ""
   "c:/texlive/2025/texmf.cnf" 1766806072 713 e69b156964470283e0530f5060668171 ""
-  "out/sotu2.aux" 1768196174 5452 e653cf881d2e1479fc0ad1d3e3c031ce "latex"
-  "sotu2.tex" 1768196172 29139 2119dfc2d3f845660b46f0909d448cd2 ""
+  "out/../設定1.png" 1768284037 23876 7a26889455e45ea198f76b428e3ca7cd ""
+  "out/sotu2.aux" 1768392058 6560 acdb7e7138cc93f49989bf055c46de79 "latex"
+  "setting3.png" 1768284893 21648 29eb48dbdf1b0aa68de7cb9b8b786acd ""
+  "sotu2.tex" 1768392049 42738 89a2e6af4100aa5549ac518d0f8fd1fa ""
+  "自転車と自動車の距離.png" 1768378192 25242 1f294605edcaafd90c389e6e7b808b8b ""
+  "自転車速度.png" 1768377965 14836 96c92dbd759541fb616f63debe057339 ""
+  "設定4.png" 1768285737 23604 5e5a7d3e2a461a2f5c4b172829bbc2f3 ""
+  "設定5.png" 1768286038 20247 9fef88ba8fdf2beb7830926c9a5b4cc1 ""
+  "通過時間.png" 1768378525 17084 ad1459bfe27770db5e22a0bd6ca42b69 ""
   (generated)
   "out/sotu2.aux"
   "out/sotu2.dvi"
