@@ -1,0 +1,24 @@
+# Fdb version 4
+["dvipdf"] 0 "out/sotu_final.dvi" "out/sotu_final.pdf" "out/sotu_final" 0 -1
+  "out/sotu_final.dvi" 0 -1 0 "latex"
+  (generated)
+  "out/sotu_final.pdf"
+  (rewritten before read)
+["latex"] 1768464646.87432 "c:/Users/yudai/Documents/sotulatex/sotu_final.tex" "out/sotu_final.dvi" "sotu_final" 1768464647.46255 2
+  "c:/Users/yudai/Documents/sotulatex/sotu_final.tex" 1768464633 9278 d3b9ccc3ca947fdab802770509dea65d ""
+  "c:/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1766757612 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "c:/texlive/2025/texmf-dist/fonts/tfm/ptex-fonts/standard/min10.tfm" 1766763477 1196 1be730212205a270378fba11a44765dc ""
+  "c:/texlive/2025/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin10.tfm" 1766763477 856 39c171483fe1bb7d0e1368980c0c205b ""
+  "c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1766754480 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
+  "c:/texlive/2025/texmf-dist/tex/uplatex/base/ujreport.cls" 1766804602 28822 0d11fc9a80459f8acb59a92a8c0c240f ""
+  "c:/texlive/2025/texmf-dist/tex/uplatex/base/ujsize11.clo" 1766804602 8671 38ae6650cc4f672ed2eb94ee1d40ee3d ""
+  "c:/texlive/2025/texmf-dist/web2c/texmf.cnf" 1766749725 42213 4e2ca030e8e2640502016e9e45868dcb ""
+  "c:/texlive/2025/texmf-var/web2c/euptex/platex.fmt" 1766806717 3640801 b4f665d2c7fdd794d5b1d9a9f65ed69e ""
+  "c:/texlive/2025/texmf.cnf" 1766806072 713 e69b156964470283e0530f5060668171 ""
+  "out/sotu_final.aux" 1768464638 32 3985256e7290058c681f74d7a3565a19 "latex"
+  "sotu_final.tex" 1768464633 9278 d3b9ccc3ca947fdab802770509dea65d ""
+  (generated)
+  "out/sotu_final.aux"
+  "out/sotu_final.dvi"
+  "out/sotu_final.log"
+  (rewritten before read)
